@@ -35,3 +35,5 @@ Other things are tweakable, but not as relevant to a particular scenario. `res` 
 * [ ] Color customization
 * [ ] Supplement with other data
 * [ ] Be able to make changes while an animation runs
+* [ ] Configure runs through cli arguments
+* [ ] Configure runs as saved files
